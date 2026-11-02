@@ -39,7 +39,6 @@
 ## 📌 Projets récents
 * 🤖 **Chatbot IA Luxe :** Agent conversationnel de A à Z raccordant un LLM à des fonctions Python pour un site d'horlogerie (catalogue, liens contextuels, prise de RDV).
 * ⚙️ **API REST Flask :** Architecture CRUD complète pour la gestion de catalogue et qualification sous Postman.
-* 🌐 **Web Scraping & NLP :** Collecte automatisée et analyse de sentiment pour l'évaluation d'e-réputation.
 
 ---
 
