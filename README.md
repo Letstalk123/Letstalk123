@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 À propos de moi
-* **Présentation :** Étudiante en 3ème année de Bachelor IA & Business, passionnée par l'optimisation des processus d'entreprise grâce à la donnée et à l'Intelligence Artificielle[cite: 1]. Je m'oriente vers une approche pratique de la tech après un passage en Mathématiques et Informatique à Paris Dauphine. J'aime concevoir des outils IA et data qui répondent à de vrais besoins sur le terrain[cite: 1].
+* **Présentation :** Étudiante en 3ème année de Bachelor IA & Business, passionnée par l'optimisation des processus d'entreprise grâce à la donnée et à l'Intelligence Artificielle. Je m'oriente vers une approche pratique de la tech après un passage en Mathématiques et Informatique à Paris Dauphine. J'aime concevoir des outils IA et data qui répondent à de vrais besoins sur le terrain.
 * **Fibre Management & Initiative :** 
   * Lead naturel lors des bootcamps de management (organisation d'équipe, cadrage des livrables, prise de parole).
   * Esprit entrepreneurial : création et gestion d'une micro-activité commerciale (vente de produits traiteur de A à Z : logistique, relation client, ventes).
@@ -18,8 +18,8 @@
 ---
 
 ## 🛠️ Stack & Langages
-* **Langages & Frameworks :** Python, SQL, Flask, HTML/CSS, JavaScript, R[cite: 1]
-* **Outils Data & IA :** Power BI, Tableau Software, API REST, Postman[cite: 1]
+* **Langages & Frameworks :** Python, SQL, Flask, HTML/CSS, JavaScript, R
+* **Outils Data & IA :** Power BI, Tableau Software, API REST, Postman
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
