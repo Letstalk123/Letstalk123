@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=ribbon&color=E380F7&height=200§ion=header&text=Grace%20Bamazi&fontSize=42&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E380F7&height=120§ion=header&text=Grace%20Bamazi&fontSize=40&fontColor=fff" width="100%"/>
 
 # Hello, I'm Grace ! 👋
 
