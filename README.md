@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120§ion=header&text=Grace%20Bamazi&fontSize=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=ribbon&color=E380F7&height=200§ion=header&text=Grace%20Bamazi&fontSize=42&fontColor=fff" width="100%"/>
 
 # Hello, I'm Grace ! 👋
 
@@ -22,7 +22,16 @@
 * **Outils Data & IA :** Power BI, Tableau Software, API REST, Postman[cite: 1]
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,flask,html,css,js,r,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="SQL / Databases" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask (API REST)" alt="Flask" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=r" title="R Language" alt="R" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git / GitHub" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman (Tests API)" alt="Postman" />
 </p>
 
 ---
