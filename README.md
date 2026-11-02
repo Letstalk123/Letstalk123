@@ -44,7 +44,7 @@
 ---
 
 * 💬 **Ask me about :** Les agents IA, le web scraping, le volley & le hand-ball, ou mes meilleures recommandations d'animes et de séries 🍿
-* ⚡ **Fun fact :** Je suis bilingue grâce aux séries/livres en VO, mais maladroite à un niveau olympique (team Namjoon 💜). Entre deux projets Python, vous me trouverez sûrement en train de chanter, de danser ou de me remémorer l'époque où je jouais *L'École des femmes* sur scène !
+* ⚡ **Fun fact :** Je suis bilingue grâce aux séries/livres en VO, mais maladroite à un niveau olympique (j'ai tout un répertoire de chutes mémorables 😭). Entre deux projets Python, vous me trouverez sûrement en train de chanter, de danser ou de me remémorer l'époque où je jouais *L'École des femmes* sur scène !
 
 ---
 
